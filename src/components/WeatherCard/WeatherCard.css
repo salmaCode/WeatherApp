@@ -1,0 +1,26 @@
+/* src/components/WeatherCard/WeatherCard.css */
+.weather-card {
+    background-color: #f0f8ff;
+    border-radius: 8px;
+    padding: 20px;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 250px;
+    margin: 10px;
+  }
+  
+  .weather-info img {
+    width: 50px;
+    height: 50px;
+  }
+  
+  .weather-info p {
+    font-size: 18px;
+    margin: 5px 0;
+  }
+  
+  .weather-info h2 {
+    font-size: 24px;
+    color: #333;
+  }
+  
